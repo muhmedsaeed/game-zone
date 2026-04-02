@@ -3,6 +3,8 @@ wwwroot\assets\images\games\f2057eb7-0b7d-464f-b2de-3e1b158b295f.png
 wwwroot\css\bootstrap.min.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\filesize-validator.js
+wwwroot\js\game-form.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap-icons\font\bootstrap-icons.css
 wwwroot\lib\bootstrap-icons\font\bootstrap-icons.json
@@ -69,9 +71,17 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\select2\js\select2.min.js
+wwwroot\lib\select2\css\select2.min.css
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\css\bootstrap.min.css
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\css\site.css
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\favicon.ico
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\js\filesize-validator.js
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\js\game-form.js
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\js\site.js
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap-icons\font\bootstrap-icons.css
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap-icons\font\bootstrap-icons.json
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap-icons\font\bootstrap-icons.min.css
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -131,7 +141,5 @@ D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\www
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\jquery\LICENSE.txt
-D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\css\bootstrap.min.css
-D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap-icons\font\bootstrap-icons.css
-D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap-icons\font\bootstrap-icons.json
-D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\bootstrap-icons\font\bootstrap-icons.min.css
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\select2\js\select2.min.js
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\wwwroot\lib\select2\css\select2.min.css

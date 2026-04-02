@@ -21,7 +21,6 @@ D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\scopedcss\bundle\GameZone.styles.css
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\scopedcss\projectbundle\GameZone.bundle.scp.css
-D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\1twltuywnx-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\bk7hh9euwn-{0}-bqjiyaj88i-bqjiyaj88i.gz
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\86xom265ce-{0}-c2jlpeoesf-c2jlpeoesf.gz
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\4bddrglb4l-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -95,7 +94,6 @@ D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\9ekrw89du7-{0}-ge2yle0d7k-ge2yle0d7k.gz
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\zmhya3a78f-{0}-nml8oj512p-nml8oj512p.gz
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\zzikmyd95a-{0}-nml8oj512p-nml8oj512p.gz
-D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\nvlnbzme7y-{0}-mlarkd2upw-mlarkd2upw.gz
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\bin\Debug\net10.0\Azure.Core.dll
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\bin\Debug\net10.0\Azure.Identity.dll
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\bin\Debug\net10.0\Humanizer.dll
@@ -342,3 +340,10 @@ D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\bin
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\kpy861x9pz-{0}-0c1d32ph4u-0c1d32ph4u.gz
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\m7upe1u505-{0}-gnxria04pl-gnxria04pl.gz
 D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\yt312srley-{0}-zqltuijmmh-zqltuijmmh.gz
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\GameZone.sourcelink.json
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\nvlnbzme7y-{0}-j9fczv4dhs-j9fczv4dhs.gz
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\yk9ajsvy6h-{0}-77470e9vxm-77470e9vxm.gz
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\f4zsv0plch-{0}-s267r0rrv2-s267r0rrv2.gz
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\mpx1n53y18-{0}-o2erkrdy46-o2erkrdy46.gz
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\1twltuywnx-{0}-uczgrks6rv-uczgrks6rv.gz
+D:\_Programming\_ITI\_On ITI\Projects\Backend MVC Projects\GameZone\GameZone\obj\Debug\net10.0\compressed\m57wg4aidw-{0}-yp22o3gt4g-yp22o3gt4g.gz

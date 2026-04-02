@@ -13,7 +13,7 @@
 <form asp-action="Create" asp-controller="Games" enctype="multipart/form-data">
     <div class="row">
         <!-- For Inputs at left -->
-        <div class="col-md-4">
+        <div class="col-md-6 pe-5">
             <!-- For Name -->
             <div class="form-group">
                 <label asp-for="Name" class="form-label mt-4"></label>
@@ -24,8 +24,9 @@
             <!-- For Gategory -->
             <div class="form-group">
                 <label asp-for="CategoryId" class="form-label mt-4"></label>
-                <select asp-for="CategoryId" class="form-select" asp-items="Model.Categories">
-                    <option value="">Select a Category</option>
+                <select asp-for="CategoryId" class="form-select" asp-items="Model.Categories"
+                        data-placeholder="Select a Category" data-minimum-results-for-search="Infinity">
+                    <option value=""></option>
                 </select>
                 <span asp-validation-for="CategoryId" class="text-danger"></span>
             </div>
@@ -33,8 +34,9 @@
             <!-- For Devices -->
             <div class="form-group">
                 <label asp-for="SelectedDevices" class="form-label mt-4"></label>
-                <select asp-for="SelectedDevices" class="form-select" asp-items="Model.Devices">
-                    <option value="">Select Devices</option>
+                <select asp-for="SelectedDevices" class="form-select" asp-items="Model.Devices"
+                        data-placeholder="Select Devices">
+                    <option value=""></option>
                 </select>
                 <span asp-validation-for="SelectedDevices" class="text-danger"></span>
             </div>
@@ -51,7 +53,12 @@
             <!-- For Cover Image -->
             <div class="form-group">
                 <label asp-for="Cover" class="form-label mt-4">Game Cover</label>
-                <input asp-for="Cover" class="form-control" type="file">
+                <input asp-for="Cover" class="form-control" type="file"
+                    data-rule-extension="@FileSettings.AllowedExtentions.Replace(".", String.Empty)"
+                        data-msg-extension="Not Allowed Extension."
+                       data-rule-filesize="@FileSettings.MaxFileSizeInByte"
+                       data-msg-filesize="The max file size is @(FileSettings.MaxFileSizeInMB)MB.">
+
                 <small class="form-text text-muted">Only @FileSettings.AllowedExtentions files allowed with max size @(FileSettings.MaxFileSizeInMB)MB.</small>
                 <span asp-validation-for="Cover" class="text-danger d-block"></span>
             </div>
@@ -62,9 +69,8 @@
     
 
         <!-- For Image preview at right -->
-        <div class="col-md-4"></div>
-        <div class="col-md-4">
-
+        <div class="col-md-6 d-flex justify-content-center pt-5 overflow-hidden">
+            <img class="cover-preview d-none" src="#" alt="Game Cover" />
         </div>
     </div>
 
@@ -73,4 +79,8 @@
 
 @section Scripts{
     <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/filesize-validator.js" asp-append-version="true"></script>
+    <script src="~/js/game-form.js" asp-append-version="true"></script>
+
+
 }
